@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Eifach guet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://feinesse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Backen</title>
       <link>https://feinesse.github.io/categories/backen/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://feinesse.github.io/categories/backen/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Dessert</title>
       <link>https://feinesse.github.io/categories/dessert/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://feinesse.github.io/categories/dessert/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>Hauptspeise</title>
       <link>https://feinesse.github.io/categories/hauptspeise/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://feinesse.github.io/categories/hauptspeise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppe</title>
+      <link>https://feinesse.github.io/categories/suppe/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://feinesse.github.io/categories/suppe/</guid>
       <description></description>
     </item>
     
