@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Eifach guet</title>
+    <title>Categories on Eifach Guet</title>
     <link>https://feinesse.github.io/categories/</link>
-    <description>Recent content in Categories on Eifach guet</description>
+    <description>Recent content in Categories on Eifach Guet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://feinesse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hauptspeise</title>
-      <link>https://feinesse.github.io/categories/hauptspeise/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://feinesse.github.io/categories/hauptspeise/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://feinesse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backen</title>
       <link>https://feinesse.github.io/categories/backen/</link>
@@ -35,6 +22,15 @@
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://feinesse.github.io/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hauptspeise</title>
+      <link>https://feinesse.github.io/categories/hauptspeise/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://feinesse.github.io/categories/hauptspeise/</guid>
       <description></description>
     </item>
     

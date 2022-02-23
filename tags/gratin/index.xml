@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gratin on Eifach guet</title>
+    <title>Gratin on Eifach Guet</title>
     <link>https://feinesse.github.io/tags/gratin/</link>
-    <description>Recent content in Gratin on Eifach guet</description>
+    <description>Recent content in Gratin on Eifach Guet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://feinesse.github.io/tags/gratin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://feinesse.github.io/tags/gratin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kartoffelgratin à la Simona</title>
       <link>https://feinesse.github.io/recipes/kartoffelgratin-a-la-simona/</link>

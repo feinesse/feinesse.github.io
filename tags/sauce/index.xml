@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sauce on Eifach guet</title>
+    <title>Sauce on Eifach Guet</title>
     <link>https://feinesse.github.io/tags/sauce/</link>
-    <description>Recent content in Sauce on Eifach guet</description>
+    <description>Recent content in Sauce on Eifach Guet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://feinesse.github.io/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://feinesse.github.io/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erbsli-Pesto</title>
       <link>https://feinesse.github.io/recipes/erbsli-pesto/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://feinesse.github.io/recipes/erbsli-pesto/</guid>
-      <description> Zutaten:  2 Hände voll Erbsli Olivenöl 1-2 Knoblauchzehen Salz Pfeffer Sbrinz wenig Zitronensaft ev. Pinienkerne falls möglich etwas Minze oder Basilikum zugeben  Vorgehen:  wie immer  </description>
+      <description>Zutaten:  2 Hände voll Erbsli Olivenöl 1-2 Knoblauchzehen Salz Pfeffer Sbrinz wenig Zitronensaft ev. Pinienkerne falls möglich etwas Minze oder Basilikum zugeben  Vorgehen:  wie immer  </description>
     </item>
     
   </channel>

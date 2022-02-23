@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Eifach guet</title>
+    <title>Tags on Eifach Guet</title>
     <link>https://feinesse.github.io/tags/</link>
-    <description>Recent content in Tags on Eifach guet</description>
+    <description>Recent content in Tags on Eifach Guet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://feinesse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Mediterran</title>
-      <link>https://feinesse.github.io/tags/mediterran/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://feinesse.github.io/tags/mediterran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risotto</title>
-      <link>https://feinesse.github.io/tags/risotto/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://feinesse.github.io/tags/risotto/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://feinesse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brot</title>
       <link>https://feinesse.github.io/tags/brot/</link>
@@ -233,15 +211,6 @@
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://feinesse.github.io/tags/chinesisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webseite</title>
-      <link>https://feinesse.github.io/tags/webseite/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://feinesse.github.io/tags/webseite/</guid>
       <description></description>
     </item>
     
