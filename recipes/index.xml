@@ -6,7 +6,25 @@
     <description>Recent content in Rezepte on Eifach Guet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://feinesse.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://feinesse.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apfelstrudel</title>
+      <link>https://feinesse.github.io/recipes/apfelstrudel/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://feinesse.github.io/recipes/apfelstrudel/</guid>
+      <description>Zutaten:  4 Äpfel 3 EL Zucker 1 EL Cognac 2 TL Zimt 1 TL geriebene Haselnüsse 1 Ei ¼ Zitrone Abrieb und Saft 1 Prise Salz für jeweils Teig und Füllung 120 g Mehl (Halb Vollkorn, Halb Weissmehl) 20 g Weinbeeren oder Cranberries 35 g geschmolzener Anken (15 g in Teig, 20 g um Teig) 3 EL Wasser  Vorgehen:  Mehl, Salz, Ei, zerkleinerter Anken, Wasser gut kneten Als Kugel unter einer heiss ausgespülten Schüssel 30 min.</description>
+    </item>
+    
+    <item>
+      <title>Vanillecrème à la Mamman</title>
+      <link>https://feinesse.github.io/recipes/vanillecreme/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://feinesse.github.io/recipes/vanillecreme/</guid>
+      <description>Zutaten:  1 Vanille-Stängel 3 EL Vollrohrzucker 1 EL Maizena 2 Eier 5 dl Milch  Vorgehen:  Vanille-Stängel aufschneiden und auskratzen Milch, Zucker, Maizena und Eier mit dem Vanillestängel und den Vanillesamen mit dem Schwingbesen verrühren Aufkochen unter ständigem Rühren bei hoher Hitze Sobald Masse heiss, Induktionsherd ausschalten, Masse ruhen lassen Warm geniessen  </description>
+    </item>
+    
     <item>
       <title>Erbsli-Pesto</title>
       <link>https://feinesse.github.io/recipes/erbsli-pesto/</link>
@@ -213,26 +231,6 @@
       
       <guid>https://feinesse.github.io/recipes/%C3%A4lplermagrone/</guid>
       <description>Zutaten:  350g Pasta 350g festkochende Kartoffeln  Vorgehen:  Appenzeller Käse mit einer Röstiraffel zerkleinern Die Zwiebeln in längliche Streifen schneiden Den Knochlauch schälen und in feine Stücke schneiden Die Kartoffeln schälen und in kleine Würfel (1cm) schneiden Wasser salzen und aufkochen. Danach die Kartoffeln beigeben. 5 Minuten später die Älplermagronen dazugeben und nach Packungsbeilage kochen. Ofen auf 70° vorheizen. Sobald die Magronen fertig sind, das Wasser ableeren und den Boden der Schüssel mit ihnen bedecken.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://feinesse.github.io/recipes/apfelstrudel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://feinesse.github.io/recipes/apfelstrudel/</guid>
-      <description>Apfelstrudel title: Apfelstrudel date: 2022-02-22 description: Apfelstrudel featured_image: /images/apfelstrudel.jpg authors: [Isabel] categories: [Dessert] tags: [Apfel,Strudel] preparationTime: 30m bakingTime: 35m
-serves: 4 type: recipe draft: true Zutaten:  4 Äpfel 3 EL Zucker 1 EL Cognac 2 TL Zimt 1 TL geriebene Haselnüsse 1 Ei ¼ Zitrone Abrieb und Saft 1 Prise Salz für jeweils Teig und Füllung 120 g Mehl (Halb Vollkorn, Halb Weissmehl) 20 g Weinbeeren oder Cranberries 35 g geschmolzener Anken (15 g in Teig, 20 g um Teig) 3 EL Wasser  Vorgehen:  Mehl, Salz, Ei, zerkleinerter Anken, Wasser gut kneten Als Kugel unter einer heiss ausgespülten Schüssel 30 min.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://feinesse.github.io/recipes/vanillecreme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://feinesse.github.io/recipes/vanillecreme/</guid>
-      <description>Vanille-Crème title: Vanillecrème à la Mamman date: 2022-02-22 description: Ä feini Vanillecrème zum ellei, zu Öpfelstrudel oder mit Schuggibrownies esse featured_image: /images/vanillecreme.jpg authors: [Isabel] categories: [Dessert] tags: [Creme,Vanille] preparationTime: 10m cookingTime: 10m
-serves: 4 type: recipe draft: true Zutaten:  1 Vanille-Stängel 3 EL Vollrohrzucker 1 EL Maizena 2 Eier 5 dl Milch  Vorgehen:  Vanille-Stängel aufschneiden und auskratzen Milch, Zucker, Maizena und Eier mit dem Vanillestängel und den Vanillesamen mit dem Schwingbesen verrühren Aufkochen unter ständigem Rühren bei hoher Hitze Sobald Masse heiss, Induktionsherd ausschalten, Masse ruhen lassen Warm geniessen  </description>
     </item>
     
   </channel>
