@@ -22,7 +22,7 @@ if(searchQuery){
   $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
 }else {
-  $('#search-results').append("<h3>Geben Sie einen Suchbegriff ein</h3>");
+  $('#search-results').append("<h4>Geben Sie einen Suchbegriff ein</h4>");
 }
 
 function executeSearch(searchQuery){
@@ -34,7 +34,7 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<h3>Kein Ergebnis gefunden</h3>");
+      $('#search-results').append("<h4>Kein Ergebnis gefunden</h4>");
     }
   });
 }
