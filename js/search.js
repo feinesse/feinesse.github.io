@@ -1,19 +1,21 @@
 summaryInclude=60;
 var fuseOptions = {
-  shouldSort: true,
+  shouldSort: true, // Whether to sort the result list, by score.
   includeMatches: true,
   threshold: 0.0,
   tokenize:true,
   location: 0,
   distance: 100,
   maxPatternLength: 32,
-  minMatchCharLength: 3,
+  minMatchCharLength: 2,
   keys: [
     {name:"title",weight:0.8},
     {name:"tags",weight:0.6},
     {name:"categories",weight:0.6},
     {name:"contents",weight:0.4},
-    {name:"description",weight:0.4}
+    {name:"description",weight:0.4},
+    {name:"authors",weight:0.4},
+    {name:"ingredients",weight:0.6}
   ]
 };
 
@@ -44,7 +46,6 @@ function populateResults(result){
     var contents= value.item.contents;
     var snippet = "";
     var snippetHighlights=[];
-    var tags =[];
     if( fuseOptions.tokenize ){
       snippetHighlights.push(searchQuery);
     }else{
@@ -66,12 +67,12 @@ function populateResults(result){
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    var output = render(templateDefinition,{key:key,title:value.item.title,description:value.item.description,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet});
+    var output = render(templateDefinition,{key:key,title:value.item.title,description:value.item.description,link:value.item.permalink,image:value.item.featured_image,snippet:snippet});
     $('#search-results').append(output);
 
-    $.each(snippetHighlights,function(snipkey,snipvalue){
+    /*$.each(snippetHighlights,function(snipkey,snipvalue){
       $("#summary-"+key).mark(snipvalue);
-    });
+    });*/
 
   });
 }
@@ -102,5 +103,6 @@ function render(templateString, data) {
     re = new RegExp(find, 'g');
     templateString = templateString.replace(re, data[key]);
   }
+  // TODO CFE: match {{ if ne "${image}" "" }}, evaluate it and conditionally remove content
   return templateString;
 }
