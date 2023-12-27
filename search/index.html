@@ -47,7 +47,7 @@
   <div class="pv3 bg-black">
     <nav class="ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center pr0">
-    <a href="https://feinesse.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
       Eifach Guet
     </a>
     <div class="flex-l items-center">
@@ -119,64 +119,62 @@
   </div>
 </header>
 
-    <main class="pb5" role="main">
+    <main class="pb4" role="main">
       
-<div class="pl4">
-  <h1 class="flex-none">Suche</h1>
-</div>
-<section class="pl4">
-  <div>
-    <form action="https://feinesse.github.io/search/">
+  <div class="pl4 w-100">
+    <h1 class="flex-none">Suche</h1>
+
+    <form action="/search/">
       <input id="search-query" name="s"/>
     </form>
-    <div id="search-results" class="w-100 center">
-    </div>
-  </div>
-</section>
-<script id="search-result-template" type="text/x-js-template">
-    <div id="search-result-${key}" class="w-70-ns">
-      <article class="bb b--black-10">
-        <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-          <div class="flex flex-column flex-row-ns">
-            
-              <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-                <a href="${link}" class="db grow">
-                  <img src="${image}" class="img" alt="image from Suche">
-                </a>
-              </div>
-            
-            <div class="blah w-100 w-60-ns pl3-ns">
-              <h1 class="f3 fw1 athelas mt0 lh-title">
-                <a href="${link}" class="color-inherit dim link">
-                  ${title}
+
+    <section class="w-100 mw8">
+      <div id="search-results" class="relative w-100 mb4">
+      </div>
+    </section>
+
+    <script id="search-result-template" type="text/x-js-template">
+      <div id="search-result-${key}">
+        <article class="bb b--black-10">
+          <div class="db pv4 pr3 ph0-l no-underline dark-gray">
+            <div class="flex flex-column flex-row-ns">
+              
+                <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+                  <a href="${link}" class="db grow">
+                    <img src="${image}" class="img" alt="image from Suche">
                   </a>
-              </h1>
-              <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-                ${description}
-              </div>
-                  <a href="${link}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">weiterlesen</a>
-              </div>
+                </div>
+              
+              <div class="blah w-100 w-60-ns pl3-ns">
+                <h1 class="f3 fw1 athelas mt0 lh-title">
+                  <a href="${link}" class="color-inherit dim link">
+                    ${title}
+                    </a>
+                </h1>
+                <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+                  ${description}
+                </div>
+                    <a href="${link}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">weiterlesen</a>
+                </div>
+            </div>
           </div>
-        </div>
-      </article>
-    </div>
-</script>
+        </article>
+      </div>
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+    <script src="https://feinesse.github.io/js/search.js"></script>
+  </div>
 
     </main>
-    
-
-<footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://feinesse.github.io/" >
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-end">
+  <a class="f4 fw4 hover-white no-underline white-70 pv2 ph3" href="/" >
     &copy; 2023 Eifach Guet
   </a>
   </div>
 </footer>
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
-<script src="https://feinesse.github.io/js/search.js"></script>
 
     
 
