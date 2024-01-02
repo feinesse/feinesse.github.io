@@ -229,6 +229,8 @@ ul {
     box-sizing: border-box
 }
 
+
+
 .aspect-ratio {
     height: 0;
     position: relative
@@ -8650,6 +8652,10 @@ code {
 
 .ingredient-table {
     border-spacing: 0;
+}
+
+.blank-row {
+    height: 30px !important; /* overwrites any other rules */
 }
 
 .striped--near-white:nth-child(odd) {
