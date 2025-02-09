@@ -1,0 +1,31 @@
+---
+title: Kiwi Kuchen
+date: 2019-12-24
+description: wenn man "das etwas andere" liebt
+featured_image:
+author: [Simona]
+categories: [Dessert, Backen]
+tags: [süss, exotisch]
+preparationTime: 20 min
+cookingTime:
+bakingTime: ?? min
+serves: 8
+type: recipe
+---
+
+## Zutaten:
+
+- 130g Butter
+- 100g Zucker
+- 1 Päckli Vanillezucker
+- 3 Eier
+- 180-200g Mehl
+- 2 TL Backpulver
+- 2-3 Kiwis (grün oder gelb)
+
+
+## Vorgehen:
+
+1. Kuchen wie immer herstellen
+2. Ofen auf 180°C vorheizen
+3. Kiwis in kleine Stücke schneiden und ev. mit Mehl bedecken, die Hälfte unter die Masse ziehen und den Rest oben drauf vor dem Backen

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ei on Eifach Guet</title>
-    <link>https://feinesse.github.io/tags/ei/</link>
+    <link>http://localhost:1313/tags/ei/</link>
     <description>Recent content in Ei on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feinesse.github.io/tags/ei/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ei/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Omelettenfüllungen</title>
-      <link>https://feinesse.github.io/recipes/omelettenf%C3%BCllungen/</link>
+      <link>http://localhost:1313/recipes/omelettenf%C3%BCllungen/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/omelettenf%C3%BCllungen/</guid>
-      <description>Erbsli-Schinken Zutaten: Erbsli Schinken Zwiebeln Salz Pfeffer Vorgehen: Gefrorene Erbsli auftauen Zwiebel in einer Bratpfanne in Öl andünsten, dann Erbsli dazugeben und kurz kochen Kurz bevor die Erbsli gut sind, den zerrissenen Schinken mitdünsten Getrocknete Tomaten, Feta, Jungspinat: Zutaten: getrocknete Tomaten (in Öl) Fera Jungspinat Vorgehen: Getrocknete Tomaten und Feta in kleinere Stücke schneiden Jungspinat waschen und kurz in Bratpfanne dämpfen, dann kurz abkühlen lassen Feta und getrocknete Tomaten druntermischen und schon kann die Omelette damit gefüllt werden (in der Pfanne) Info: Es können auch getrocknete Tomaten verwendet werden, welche nicht in Öl eingelegt sind, jedoch würde ich diese in etwas Wasser oder Öl aufquillen lassen, bevor sie weiterverarbeitet werden.</description>
+      <guid>http://localhost:1313/recipes/omelettenf%C3%BCllungen/</guid>
+      <description>&lt;h1 id=&#34;erbsli-schinken&#34;&gt;Erbsli-Schinken&lt;/h1&gt;&#xA;&lt;h2 id=&#34;zutaten&#34;&gt;Zutaten:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Erbsli&lt;/li&gt;&#xA;&lt;li&gt;Schinken&lt;/li&gt;&#xA;&lt;li&gt;Zwiebeln&lt;/li&gt;&#xA;&lt;li&gt;Salz&lt;/li&gt;&#xA;&lt;li&gt;Pfeffer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Gefrorene Erbsli auftauen&lt;/li&gt;&#xA;&lt;li&gt;Zwiebel in einer Bratpfanne in Öl andünsten, dann Erbsli dazugeben und kurz kochen&lt;/li&gt;&#xA;&lt;li&gt;Kurz bevor die Erbsli gut sind, den zerrissenen Schinken mitdünsten&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;getrocknete-tomaten-feta-jungspinat&#34;&gt;Getrocknete Tomaten, Feta, Jungspinat:&lt;/h1&gt;&#xA;&lt;h2 id=&#34;zutaten-1&#34;&gt;Zutaten:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;getrocknete Tomaten (in Öl)&lt;/li&gt;&#xA;&lt;li&gt;Fera&lt;/li&gt;&#xA;&lt;li&gt;Jungspinat&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen-1&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Getrocknete Tomaten und Feta in kleinere Stücke schneiden&lt;/li&gt;&#xA;&lt;li&gt;Jungspinat waschen und kurz in Bratpfanne dämpfen, dann kurz abkühlen lassen&lt;/li&gt;&#xA;&lt;li&gt;Feta und getrocknete Tomaten druntermischen und schon kann die Omelette damit gefüllt werden (in der Pfanne)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Info: Es können auch getrocknete Tomaten verwendet werden, welche nicht in Öl eingelegt sind, jedoch würde ich diese in etwas Wasser oder Öl aufquillen lassen, bevor sie weiterverarbeitet werden.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

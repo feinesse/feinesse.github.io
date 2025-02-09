@@ -1,0 +1,38 @@
+---
+title: Pesto alla Zucca
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [italiensich, Pesto, Pasta]
+preparationTime:  min
+cookingTime:  min
+bakingTime: 
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 300-400g Hokkaido Kürbis (schon entkernt & gerüstet)
+- 2 Knoblauchzehen
+- 2 EL Olivenöl
+- ~1 TL Salz (ev. etwas weniger)
+- Pfeffer
+- 100g geschälte Mandeln
+- 1-2 EL Rosmarin (getrocknet, frisch ist sicher auch fein)
+- ~50g geriebener Sbrinz
+- 1.5-2dl Olivenöl (ev. mehr, Konsistenz prüfen)
+
+
+## Vorgehen:
+
+1. Backofen auf 220°C vorheizen, Kürbis (inkl. Schale) waschen und in ca. 2-3cm grosse Stücke schneiden. Knoblauchzehen schälen und zu Kürbis geben. Mit Salz, Pfeffer, Öl mischen und für 18-20 Minuten in den Ofen (Mitte) geben (Vorsicht, dass Kürbis nicht verbrennt)
+2. In der Zwischenzeit die Mandeln in einer Bratpfanne rösten (bis sie leicht bräunlich sind)
+3. Kürbis, Knoblauch, Mandeln, Rosmarin, Olivenöl pürieren (Öl zuerst wenig zugeben und nach Gutdünken mehr hinzugeben und weiter pürieren
+4. Sbrinz mit einem Löffel unterziehen
+5. Falls noch Öl nötig ist, noch etwas dazugeben und ev. nochmals mixen
+6. Beim Servieren (geröstete) Kürbiskerne drüberstreuen und etwas cremiger Aceto Balsamico Vecchiato (sehr wichtig!!)
+7. Buon App!
+8. (Testen: Aceto Balsamico direkt in Pesto?)

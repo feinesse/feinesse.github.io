@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exotisch on Eifach Guet</title>
-    <link>https://feinesse.github.io/tags/exotisch/</link>
+    <link>http://localhost:1313/tags/exotisch/</link>
     <description>Recent content in Exotisch on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feinesse.github.io/tags/exotisch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/exotisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kiwi Kuchen</title>
-      <link>https://feinesse.github.io/recipes/kiwi-kuchen/</link>
+      <link>http://localhost:1313/recipes/kiwi-kuchen/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/kiwi-kuchen/</guid>
-      <description>Zutaten: 130g Butter 100g Zucker 1 Päckli Vanillezucker 3 Eier 180-200g Mehl 2 TL Backpulver 2-3 Kiwis (grün oder gelb) Vorgehen: Kuchen wie immer herstellen Ofen auf 180°C vorheizen Kiwis in kleine Stücke schneiden und ev. mit Mehl bedecken, die Hälfte unter die Masse ziehen und den Rest oben drauf vor dem Backen </description>
+      <guid>http://localhost:1313/recipes/kiwi-kuchen/</guid>
+      <description>&lt;h2 id=&#34;zutaten&#34;&gt;Zutaten:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;130g Butter&lt;/li&gt;&#xA;&lt;li&gt;100g Zucker&lt;/li&gt;&#xA;&lt;li&gt;1 Päckli Vanillezucker&lt;/li&gt;&#xA;&lt;li&gt;3 Eier&lt;/li&gt;&#xA;&lt;li&gt;180-200g Mehl&lt;/li&gt;&#xA;&lt;li&gt;2 TL Backpulver&lt;/li&gt;&#xA;&lt;li&gt;2-3 Kiwis (grün oder gelb)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kuchen wie immer herstellen&lt;/li&gt;&#xA;&lt;li&gt;Ofen auf 180°C vorheizen&lt;/li&gt;&#xA;&lt;li&gt;Kiwis in kleine Stücke schneiden und ev. mit Mehl bedecken, die Hälfte unter die Masse ziehen und den Rest oben drauf vor dem Backen&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

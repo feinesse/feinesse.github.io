@@ -1,0 +1,42 @@
+---
+title: Nektarinen-Streuselkuchen
+date: 2019-12-23
+description: mein Geheimtipp für den Sommer
+featured_image:
+authors: [Simona]
+categories: [Dessert, Backen]
+tags: [fruchtig, süss]
+preparationTime: 20 min
+cookingTime:
+bakingTime: 20 min
+serves: 8-10
+type: recipe
+---
+
+## Zutaten:
+
+- ~150g Butter
+- 120g Zucker
+- 3 Eier
+- 1 Päckli Vanillezucker
+- 1 KL Änispulver
+- 160-180g Mehl
+- 1 EL Backpulver
+- 3-4 reife Nektarinen
+
+Topping:
+- 110-120g feine Haferfköckli
+- 30-40g Zucker
+- ~50g Butter
+
+## Vorgehen:
+
+1. Wie jeder normale Kuchen
+2. Nektarinen in kleine Stücke schneiden
+3. Runde Kuchenform mit Teig füllen, dann die Nektarinen schön gleichmässig darüberverteilen bis Teig komplett zugedeckt ist
+4. Butter schmelzen und in einer separaten Schüssel zum Haferflocken Zucker Mix geben oder alles in einer Bratpfanne machen
+5. Kuchen bei 180°C für ca. 60 Minuten backen
+
+### Info:
+
+Kuchen ist 2 Tage danach am besten (mini Meinig)

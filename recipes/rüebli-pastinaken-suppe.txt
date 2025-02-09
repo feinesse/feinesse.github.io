@@ -1,0 +1,35 @@
+---
+title: Rüebli-Pastinaken Suppe
+date: 2019-12-24
+description: einladende Herbstsuppe
+featured_image:
+author: [Simona]
+categories: [Suppe]
+tags: [Schweiz, Herbst, wurzelig]
+preparationTime: 20 min
+cookingTime:
+bakingTime: ?? min
+serves: 8
+type: recipe
+---
+
+## Zutaten:
+
+- 1:1 Menge Rüebli & Pastinaken
+- 1-2 Herdöpfel
+- 1 Zwiebel
+- 1-2 Knoblizehen
+- Bouillon
+- Salz
+- Pfeffer
+- Kardamom
+- Nelkenpulver
+- Curry
+- ev. Crème Fraîche oder etwas Kokosmilch oder Rahm/Milch
+- optional: Lauch, Sellerie
+
+
+## Vorgehen:
+
+1. wie man eine Suppe halt so macht
+2. Nach dem andämpfen des Gemüses, so viel Bouillon zugeben bis das Gemüse gerade gedeckt ist

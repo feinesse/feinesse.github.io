@@ -1,0 +1,43 @@
+---
+title: Milk Tart
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Dessert, Backen]
+tags: [süss]
+preparationTime:  25 min
+cookingTime:  
+bakingTime: 45 min
+serves: 4
+type: recipe
+---
+
+## Zutaten:
+
+- 1 Wähenteig (Link zum anderen Rezept)
+- 0.5dl Milch
+- 125g Zucker
+- 1 Pack Vanillezucker
+- ca. 25g Butter
+- 1 Zimtstange
+- 1.5 EL Maisstärke
+- 1 EL Mehl
+- 1/4 TL Salz
+- 2 Eier
+- 2-3 Tropfen Bittermandelaroma
+- Zimt zum Bestreuen
+
+
+## Vorgehen:
+
+1. Teig herstellen (siehe...), auf die Grösse des Backblechs auswallen und mit einer Gabel einstechen, damit keine Luftblasen während des Backens entstehen
+2. Teig bei 220°C für ca. 8 min blind backen oder bis goldenbraun, dann abkühlen lassen
+3. In der Zwischenzeit können Milch, Zucker, Vanillezucker, Butter und die Zimtstange in eine Pfanne gegeben werden. Dieses Gemisch auf mittlerer Hitze erwärmen bis sich alles gelöst hat, jedoch nicht zum Kochen bringen.
+4. In einem Massbecher Salz, Ei, Maisstärke und Mehl hinzugeben und mit einem Schwingbesen zu einer homogenen Masse rühren
+5. Die Hälfte der Milchmasse kann dann zur Eimasse gegeben werden unter ständigem Rühren
+6. Nun dann diese Masse zur anderen Hälfte der Milchmasse gegeben 
+7. Unter ständigem Rühren kochen bis die Masse dick wird
+8. Bittermandelaroma hinzugeben, umrühren und die Masse dann auf den vorgebackten Teig geben und mit Zimt bestreuen
+8. Bei 180°C für 30 min im Ofen backen
+9. E Guete!

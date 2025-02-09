@@ -1,0 +1,46 @@
+---
+title: Omelettenfüllungen
+date: 2019-12-23
+description: Perfekt für einen schnellen, einfachen Znacht
+featured_image:
+authors: [Simona]
+categories: [Hauptspeise]
+tags: [Schweiz, Ei]
+preparationTime: ~30 min
+cookingTime: 10 min
+bakingTime:
+serves: 
+type: recipe
+---
+
+# Erbsli-Schinken
+
+## Zutaten:
+
+- Erbsli
+- Schinken
+- Zwiebeln
+- Salz
+- Pfeffer
+
+## Vorgehen:
+
+1. Gefrorene Erbsli auftauen
+2. Zwiebel in einer Bratpfanne in Öl andünsten, dann Erbsli dazugeben und kurz kochen
+3. Kurz bevor die Erbsli gut sind, den zerrissenen Schinken mitdünsten
+
+# Getrocknete Tomaten, Feta, Jungspinat:
+
+## Zutaten:
+
+- getrocknete Tomaten (in Öl)
+- Fera
+- Jungspinat
+
+## Vorgehen:
+
+1. Getrocknete Tomaten und Feta in kleinere Stücke schneiden
+2. Jungspinat waschen und kurz in Bratpfanne dämpfen, dann kurz abkühlen lassen
+3. Feta und getrocknete Tomaten druntermischen und schon kann die Omelette damit gefüllt werden (in der Pfanne)
+
+Info: Es können auch getrocknete Tomaten verwendet werden, welche nicht in Öl eingelegt sind, jedoch würde ich diese in etwas Wasser oder Öl aufquillen lassen, bevor sie weiterverarbeitet werden.

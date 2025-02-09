@@ -1,0 +1,33 @@
+---
+title: Bananen-Rüebli-Baumnuss-Kuchen
+date: 2019-12-23
+description: wenn man "das etwas andere" liebt
+featured_image:
+authors: [Simona]
+categories: [Dessert, Backen]
+tags: [nussig, süss]
+preparationTime: 20 min
+cookingTime:
+bakingTime: ?? min
+serves: 8
+type: recipe
+---
+
+## Zutaten:
+
+- 125g Butter
+- 130g Zucker
+- 3 Eier
+- 1 EL Zitronensaft
+- 180-200g Mehl
+- 1 EL Backpulver
+- 1 KL Muskatnuss
+- ~120g Rüebli (geraffelt)
+- 1-2 Bananen
+
+
+## Vorgehen:
+
+1. Kuchen wie immer herstellen
+2. Ofen auf 180°C vorheizen
+3. Rundes Kuchenblech verwenden und nach Abkühlen in kleine Quadrate schneiden (sieht aus wie Blechkuchen)

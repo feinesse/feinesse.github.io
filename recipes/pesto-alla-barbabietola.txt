@@ -1,0 +1,35 @@
+---
+title: Pesto alla Barbabietola
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [italiensich, Pesto, Pasta]
+preparationTime:  min
+cookingTime:  min
+bakingTime: 
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 300g Randen (vorgekocht)
+- 25g Pinienkernen
+- 1/2 Zitronensaft
+- 25-30g geriebener Sbrinz
+- 2-3 Stängel Basilikum (oder so viel wie erwünscht)
+- ~65g Olivenöl
+- Salz
+- Pfeffer
+
+
+## Vorgehen:
+
+1. Pinienkerne in einer Bratpfanne rösten bis gold-braun (sehr wichtig, gibt guten Geschmack)
+2. Randen in Stücke schneiden
+3. Randen, Zitronensaft einer halben Zitrone, Pinienkernen, Olivenöl, Salz und Pfeffer zusammengeben, pürieren
+4. Basilikum hinzugeben und nochmals pürieren
+5. Sbrinz unterziehen (Ölmenge kann auch hier angepasst werden)
+6. Et voilà!

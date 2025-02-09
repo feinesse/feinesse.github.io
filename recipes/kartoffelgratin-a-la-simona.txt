@@ -1,0 +1,38 @@
+---
+title: Kartoffelgratin à la Simona
+date: 2019-12-23
+description: 
+featured_image:
+authors: [Simona]
+categories: [Hauptspeise, Backen]
+tags: [Gratin, Schweiz]
+preparationTime: 15 min
+cookingTime: 20 min
+bakingTime: 20 min
+serves: 3-4
+type: recipe
+---
+
+## Zutaten:
+
+- Kartoffeln (oder Süsskartoffeln)
+- 1 mittelgrosser Blumenkohl
+- 1 roher Randenknollen
+- 3-4dl Milch
+- 3dl Halbrahm
+- 1 KL Salz
+- viel Pfeffer
+- 1 KL Muskatnuss
+Gruyère (gerieben)
+
+## Vorgehen:
+
+1. Kartoffeln waschen, schälen und in runde Stücke von ca. 0.5 cm Dicke schneiden
+2. Randen in Stangen schneiden von ca. 1 cm Dicke, Blumenkohl in kleine Röschen schneiden
+3. Backofen auf 220°C Ober- und Unterhitze vorheizen
+4. Milch, Rahm und Gewürze (Salz, Pfeffer, Muskat) in einer grossen Bratpfanne zum Kochen bringen
+5. Kartoffeln und Randen hinzugeben (Süsskartoffeln brauchen etwas weniger lang als normale Kartoffeln und Randen. Für 10 Minuten kochen lassen und gelegentlich rühren
+6. Blumenkohl hinzugeben und weitere 5 Minuten kochen
+7. Alles in eine ofenfeste Gratinform füllen und mit "viel" Gruyère bedecken, dann in den Ofen schieben
+8. 15 Minuten backen und dann noch 5 Minuten nur bei Oberhitze, um eine schöne Kruste zu kriegen (je nach Ofen können diese Angaben variieren)
+9. gnamygnamy

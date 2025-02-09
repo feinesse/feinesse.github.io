@@ -1,0 +1,31 @@
+---
+title: Vollkorn-Spätzli
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [Schweiz, Vollkorn, hausgemacht]
+preparationTime:  45 min
+cookingTime:  20 min
+bakingTime: 
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 200g Vollkornmehl
+- 100g Spätzli- oder Pastamehl
+- 1 TL Salz (gestrichen)
+- 3 Eier
+- ~2dl Milchwasser (je 1/2) (lieber weniger und am Schluss sonst noch mehr dazugeben)
+
+
+## Vorgehen:
+
+1. Mehle und Salz mischen, in der Mitte eine Mulde formen
+2. Eier gut verquirlen und mit Milchwasser mischen und gut umrühren
+3. Flüssigkeit in die Mulde geben und mit dem Mixer mixen bis ein zähflüssiger Teig entsteht
+4. circa 1 Stunde (oder etwas weniger) ruhen lassen
+5. normale Spätzli: nur 1.5 dl Milchwasser verwenden und 30 Minuten reichen zum Ruhen 

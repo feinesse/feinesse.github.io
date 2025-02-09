@@ -1,0 +1,28 @@
+---
+title: Vollkornbrot
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Backen]
+tags: [Schweiz, Brot]
+preparationTime: 3 Stunden
+cookingTime:
+bakingTime: 60 min
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 500g Vollkornmehl
+- 4dl Wasser
+- 1 Gutsch Olivenöl
+- 1 gehäufter EL Malzextrakt
+- 1 Pack Trockenhefe oder 1/2 Würfel frische Hefe
+
+
+## Vorgehen:
+
+1. wie jedes Brot
+2. Ofen auf 240°C vorheizen und Brot 10 min backen, dann Ofen auf 180°C stellen und Brot für weitere 50 min backen

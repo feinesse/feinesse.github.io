@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nussig on Eifach Guet</title>
-    <link>https://feinesse.github.io/tags/nussig/</link>
+    <link>http://localhost:1313/tags/nussig/</link>
     <description>Recent content in Nussig on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feinesse.github.io/tags/nussig/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nussig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bananen-Rüebli-Baumnuss-Kuchen</title>
-      <link>https://feinesse.github.io/recipes/bananen-r%C3%BCebli-baumnuss-kuchen/</link>
+      <link>http://localhost:1313/recipes/bananen-r%C3%BCebli-baumnuss-kuchen/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/bananen-r%C3%BCebli-baumnuss-kuchen/</guid>
-      <description>Zutaten: 125g Butter 130g Zucker 3 Eier 1 EL Zitronensaft 180-200g Mehl 1 EL Backpulver 1 KL Muskatnuss ~120g Rüebli (geraffelt) 1-2 Bananen Vorgehen: Kuchen wie immer herstellen Ofen auf 180°C vorheizen Rundes Kuchenblech verwenden und nach Abkühlen in kleine Quadrate schneiden (sieht aus wie Blechkuchen) </description>
+      <guid>http://localhost:1313/recipes/bananen-r%C3%BCebli-baumnuss-kuchen/</guid>
+      <description>&lt;h2 id=&#34;zutaten&#34;&gt;Zutaten:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;125g Butter&lt;/li&gt;&#xA;&lt;li&gt;130g Zucker&lt;/li&gt;&#xA;&lt;li&gt;3 Eier&lt;/li&gt;&#xA;&lt;li&gt;1 EL Zitronensaft&lt;/li&gt;&#xA;&lt;li&gt;180-200g Mehl&lt;/li&gt;&#xA;&lt;li&gt;1 EL Backpulver&lt;/li&gt;&#xA;&lt;li&gt;1 KL Muskatnuss&lt;/li&gt;&#xA;&lt;li&gt;~120g Rüebli (geraffelt)&lt;/li&gt;&#xA;&lt;li&gt;1-2 Bananen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kuchen wie immer herstellen&lt;/li&gt;&#xA;&lt;li&gt;Ofen auf 180°C vorheizen&lt;/li&gt;&#xA;&lt;li&gt;Rundes Kuchenblech verwenden und nach Abkühlen in kleine Quadrate schneiden (sieht aus wie Blechkuchen)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

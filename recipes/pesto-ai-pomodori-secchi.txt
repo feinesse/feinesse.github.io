@@ -1,0 +1,33 @@
+---
+title: Pesto ai Pomodori Secchi
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [italiensich, Pesto, Pasta]
+preparationTime:  min
+cookingTime:  min
+bakingTime: 
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 400g in Öl eingelegte Tomaten (eher mehr Tomaten, nicht zu viel Öl!!)
+- 30g Pinienkerne
+- 20g geschälte Mandeln
+- 2 EL Salz
+- Salz
+- Pfeffer
+- 1-2 Stängel Basilikum
+
+
+## Vorgehen:
+
+1. Pinienkerne und Mandeln (separat! wegen Grössenunterschied) rösten
+2. Tomaten mit Öl, Pinien- und Mandelkernen, Salz, Pfeffer pürieren
+3. Basilikum dazugeben und nochmals pürieren
+4. wenig Sbrinz unterziehen (je mehr Sbrinz, desto mehr geht der Tomatengeschmack verloren, Geschmackssache)
+5. (Testen: wenig Oliven hinzugeben?)

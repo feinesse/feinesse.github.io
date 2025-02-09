@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gratin on Eifach Guet</title>
-    <link>https://feinesse.github.io/tags/gratin/</link>
+    <link>http://localhost:1313/tags/gratin/</link>
     <description>Recent content in Gratin on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feinesse.github.io/tags/gratin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gratin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kartoffelgratin à la Simona</title>
-      <link>https://feinesse.github.io/recipes/kartoffelgratin-a-la-simona/</link>
+      <link>http://localhost:1313/recipes/kartoffelgratin-a-la-simona/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/kartoffelgratin-a-la-simona/</guid>
-      <description>Zutaten: Kartoffeln (oder Süsskartoffeln) 1 mittelgrosser Blumenkohl 1 roher Randenknollen 3-4dl Milch 3dl Halbrahm 1 KL Salz viel Pfeffer 1 KL Muskatnuss Gruyère (gerieben) Vorgehen: Kartoffeln waschen, schälen und in runde Stücke von ca. 0.5 cm Dicke schneiden Randen in Stangen schneiden von ca. 1 cm Dicke, Blumenkohl in kleine Röschen schneiden Backofen auf 220°C Ober- und Unterhitze vorheizen Milch, Rahm und Gewürze (Salz, Pfeffer, Muskat) in einer grossen Bratpfanne zum Kochen bringen Kartoffeln und Randen hinzugeben (Süsskartoffeln brauchen etwas weniger lang als normale Kartoffeln und Randen.</description>
+      <guid>http://localhost:1313/recipes/kartoffelgratin-a-la-simona/</guid>
+      <description>&lt;h2 id=&#34;zutaten&#34;&gt;Zutaten:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kartoffeln (oder Süsskartoffeln)&lt;/li&gt;&#xA;&lt;li&gt;1 mittelgrosser Blumenkohl&lt;/li&gt;&#xA;&lt;li&gt;1 roher Randenknollen&lt;/li&gt;&#xA;&lt;li&gt;3-4dl Milch&lt;/li&gt;&#xA;&lt;li&gt;3dl Halbrahm&lt;/li&gt;&#xA;&lt;li&gt;1 KL Salz&lt;/li&gt;&#xA;&lt;li&gt;viel Pfeffer&lt;/li&gt;&#xA;&lt;li&gt;1 KL Muskatnuss&#xA;Gruyère (gerieben)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kartoffeln waschen, schälen und in runde Stücke von ca. 0.5 cm Dicke schneiden&lt;/li&gt;&#xA;&lt;li&gt;Randen in Stangen schneiden von ca. 1 cm Dicke, Blumenkohl in kleine Röschen schneiden&lt;/li&gt;&#xA;&lt;li&gt;Backofen auf 220°C Ober- und Unterhitze vorheizen&lt;/li&gt;&#xA;&lt;li&gt;Milch, Rahm und Gewürze (Salz, Pfeffer, Muskat) in einer grossen Bratpfanne zum Kochen bringen&lt;/li&gt;&#xA;&lt;li&gt;Kartoffeln und Randen hinzugeben (Süsskartoffeln brauchen etwas weniger lang als normale Kartoffeln und Randen. Für 10 Minuten kochen lassen und gelegentlich rühren&lt;/li&gt;&#xA;&lt;li&gt;Blumenkohl hinzugeben und weitere 5 Minuten kochen&lt;/li&gt;&#xA;&lt;li&gt;Alles in eine ofenfeste Gratinform füllen und mit &amp;ldquo;viel&amp;rdquo; Gruyère bedecken, dann in den Ofen schieben&lt;/li&gt;&#xA;&lt;li&gt;15 Minuten backen und dann noch 5 Minuten nur bei Oberhitze, um eine schöne Kruste zu kriegen (je nach Ofen können diese Angaben variieren)&lt;/li&gt;&#xA;&lt;li&gt;gnamygnamy&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

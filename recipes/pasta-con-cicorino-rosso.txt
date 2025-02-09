@@ -1,0 +1,42 @@
+---
+title: Pasta con Cicorino Rosso
+date: 2019-12-23
+description: 
+featured_image:
+authors: [Simona]
+categories: [Hauptspeise]
+tags: [Pasta, italienisch]
+preparationTime: 5 min
+cookingTime: 20 min
+bakingTime: 
+serves: 1-2
+type: recipe
+---
+
+## Zutaten:
+
+- 230g Pasta (z.B. Penne)
+- ca. 170g Cicorino rosso
+- 1-2 Knoblauchzehen
+- ca. 1 EL Zitronensaft
+- ~0.5-1dl Rahm
+- Salz
+- Pfeffer
+- 1/8-1/4 TL Zucker
+- Olivenöl zum Andünsten
+- Peterli (frisch und getrocknet)
+- Gruyère frisch geraffelt
+- 1-2 EL grüne Oliven
+
+## Vorgehen:
+
+1. Pastawasser erwärmen
+2. Cicorino rosso in Stücke/Streifen schneiden (ca. 2.5x2.5cm^2 gross)
+3. Knobli klein schneiden
+4. Öl in Bratpfanne erhitzen, Knoblauch hinzugeben und bei mittlerer Hitze ca. 3 min dünsten, dann Cicorino rosso hinzugeben und mitdünsten
+5. Zucker, Salz und Pfeffer hinzugeben, dann mit Rahm ablöschen und kochen lassen bis die Pasta bereit ist
+6. Am Schluss noch Zitronensaft daruntermischen und die Sauce zur Pasta geben
+7. Schliesslich die Olivenringe draufverteilen und den Gruyère dazugeben, servieren
+
+
+

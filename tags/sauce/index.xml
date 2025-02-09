@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sauce on Eifach Guet</title>
-    <link>https://feinesse.github.io/tags/sauce/</link>
+    <link>http://localhost:1313/tags/sauce/</link>
     <description>Recent content in Sauce on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feinesse.github.io/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erbsli-Pesto</title>
-      <link>https://feinesse.github.io/recipes/erbsli-pesto/</link>
+      <link>http://localhost:1313/recipes/erbsli-pesto/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/erbsli-pesto/</guid>
-      <description>Zutaten: 2 Hände voll Erbsli Olivenöl 1-2 Knoblauchzehen Salz Pfeffer Sbrinz wenig Zitronensaft ev. Pinienkerne falls möglich etwas Minze oder Basilikum zugeben Vorgehen: wie immer </description>
+      <guid>http://localhost:1313/recipes/erbsli-pesto/</guid>
+      <description>&lt;h2 id=&#34;zutaten&#34;&gt;Zutaten:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 Hände voll Erbsli&lt;/li&gt;&#xA;&lt;li&gt;Olivenöl&lt;/li&gt;&#xA;&lt;li&gt;1-2 Knoblauchzehen&lt;/li&gt;&#xA;&lt;li&gt;Salz&lt;/li&gt;&#xA;&lt;li&gt;Pfeffer&lt;/li&gt;&#xA;&lt;li&gt;Sbrinz&lt;/li&gt;&#xA;&lt;li&gt;wenig Zitronensaft&lt;/li&gt;&#xA;&lt;li&gt;ev. Pinienkerne&lt;/li&gt;&#xA;&lt;li&gt;falls möglich etwas Minze oder Basilikum zugeben&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;wie immer&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

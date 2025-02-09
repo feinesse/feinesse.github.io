@@ -2,8 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://feinesse.github.io/tags/asiatisch/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://feinesse.github.io/authors/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/categories/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/authors/christian/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/tags/curry/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/categories/hauptspeise/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/recipes/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/tags/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/recipes/zitronengras-limetten-curry/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/categories/dessert/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/tags/italien/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/recipes/kartoffelgratin/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/tags/schweiz/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/recipes/carbonara/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/recipes/spargelrisotto/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feinesse.github.io/recipes/waehen-teig/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feinesse.github.io/categories/backen/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
@@ -11,35 +59,11 @@
     <loc>https://feinesse.github.io/tags/brot/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feinesse.github.io/categories/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/authors/christian/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://feinesse.github.io/recipes/sauerteig-brot/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feinesse.github.io/tags/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/categories/hauptspeise/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/italien/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://feinesse.github.io/recipes/all-amatriciana-copy/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/categories/dessert/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feinesse.github.io/recipes/panna-cotta/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
@@ -86,9 +110,6 @@
     <loc>https://feinesse.github.io/recipes/erbsli-pesto/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feinesse.github.io/tags/exotisch/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://feinesse.github.io/tags/gef%C3%BCllt/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -107,106 +128,19 @@
     <loc>https://feinesse.github.io/tags/herbst/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feinesse.github.io/tags/italienisch/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/italiensich/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/kiwi-kuchen/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/milk-tart/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/orangen-haselnuss-kuchen/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://feinesse.github.io/tags/orientalisch/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feinesse.github.io/recipes/pesto-ai-pomodori-secchi/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/pesto-alla-barbabietola/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/pesto-alla-zucca/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/r%C3%BCebli-pastinaken-suppe/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/sauce/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/schweiz/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/spaghetti-an-spinat-pilzrahmsauce/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/categories/suppe/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/s%C3%BCss/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/tagliolini/</loc>
+    <loc>https://feinesse.github.io/authors/simona/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feinesse.github.io/tags/vollkorn/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feinesse.github.io/recipes/vollkornsp%C3%A4tzli/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/vollkornbrot/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/winterzauber/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/wurzelig/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/bananen-r%C3%BCebli-baumnuss-kuchen/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/ei/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/fruchtig/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://feinesse.github.io/recipes/gef%C3%BCllte-zucchetti-mit-linsen/</loc>
     <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feinesse.github.io/tags/gesund/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/gratin/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/kartoffelgratin-a-la-simona/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/nektarinen-streuselkuchen/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/tags/nussig/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/omelettenf%C3%BCllungen/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/pasta-con-cicorino-rosso/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/authors/simona/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://feinesse.github.io/recipes/urdinkel-w%C3%A4henteig/</loc>
     <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feinesse.github.io/recipes/aelplermagrone/</loc>

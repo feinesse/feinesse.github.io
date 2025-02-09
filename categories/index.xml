@@ -4,10 +4,24 @@
     <title>Categories on Eifach Guet</title>
     <link>https://feinesse.github.io/categories/</link>
     <description>Recent content in Categories on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://feinesse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hauptspeise</title>
+      <link>https://feinesse.github.io/categories/hauptspeise/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/categories/hauptspeise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessert</title>
+      <link>https://feinesse.github.io/categories/dessert/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/categories/dessert/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Back</title>
       <link>https://feinesse.github.io/categories/backen/</link>
@@ -16,31 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hauptspeise</title>
-      <link>https://feinesse.github.io/categories/hauptspeise/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/categories/hauptspeise/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dessert</title>
-      <link>https://feinesse.github.io/categories/dessert/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/categories/dessert/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Vorspeise</title>
       <link>https://feinesse.github.io/categories/vorspeise/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://feinesse.github.io/categories/vorspeise/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Suppe</title>
-      <link>https://feinesse.github.io/categories/suppe/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/categories/suppe/</guid>
       <description></description>
     </item>
   </channel>

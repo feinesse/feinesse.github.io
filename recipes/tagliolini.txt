@@ -1,0 +1,26 @@
+---
+title: Tagliolini
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [italienisch, Pasta]
+preparationTime: 2 Stunden
+cookingTime: 15 min
+bakingTime:
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 75g Halbweissmehl pro Person (ev. etwas weniger oder etwas Wasser dazu
+- 25g Griess
+- 1 Ei
+
+
+## Vorgehen:
+
+1. Es kann gut die Teigmaschine verwendet werden, vor allem für grosse Mengen. Zuerst Mehl und Griess mischen (auf kleiner Stufe). Eier in einem anderen Gefäss mischen und "schaumig" rühren/schwingen. Dann Mulde fromen, Eier hinzugeben und mit dem K-Haken (!!) auf kleiner Stufe für 1-2 Minuten mixen. Tausche nun den K-Haken mit dem Teighaken und knete den Teig auf mittlerer Stufe (ca. 2) für ca. 5 Minuten. Dann Teig noch etwas mit den Händen kneten
+2. Teig in Frischhaltefolie einpacken und für min. 30 Minuten bis 1 Stunde im Kühlschrank ruhen lassen.

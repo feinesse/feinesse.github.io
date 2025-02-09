@@ -4,22 +4,43 @@
     <title>Tags on Eifach Guet</title>
     <link>https://feinesse.github.io/tags/</link>
     <description>Recent content in Tags on Eifach Guet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://feinesse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brot</title>
-      <link>https://feinesse.github.io/tags/brot/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/brot/</guid>
+      <title>Asiatisch</title>
+      <link>https://feinesse.github.io/tags/asiatisch/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/tags/asiatisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curry</title>
+      <link>https://feinesse.github.io/tags/curry/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/tags/curry/</guid>
       <description></description>
     </item>
     <item>
       <title>Italien</title>
       <link>https://feinesse.github.io/tags/italien/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <guid>https://feinesse.github.io/tags/italien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schweiz</title>
+      <link>https://feinesse.github.io/tags/schweiz/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/tags/schweiz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brot</title>
+      <link>https://feinesse.github.io/tags/brot/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/tags/brot/</guid>
       <description></description>
     </item>
     <item>
@@ -65,13 +86,6 @@
       <description></description>
     </item>
     <item>
-      <title>Exotisch</title>
-      <link>https://feinesse.github.io/tags/exotisch/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/exotisch/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Gefüllt</title>
       <link>https://feinesse.github.io/tags/gef%C3%BCllt/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
@@ -100,45 +114,10 @@
       <description></description>
     </item>
     <item>
-      <title>Italienisch</title>
-      <link>https://feinesse.github.io/tags/italienisch/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/italienisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italiensich</title>
-      <link>https://feinesse.github.io/tags/italiensich/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/italiensich/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Orientalisch</title>
       <link>https://feinesse.github.io/tags/orientalisch/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://feinesse.github.io/tags/orientalisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sauce</title>
-      <link>https://feinesse.github.io/tags/sauce/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/sauce/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Schweiz</title>
-      <link>https://feinesse.github.io/tags/schweiz/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/schweiz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Süss</title>
-      <link>https://feinesse.github.io/tags/s%C3%BCss/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/s%C3%BCss/</guid>
       <description></description>
     </item>
     <item>
@@ -149,52 +128,10 @@
       <description></description>
     </item>
     <item>
-      <title>Winterzauber</title>
-      <link>https://feinesse.github.io/tags/winterzauber/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/winterzauber/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wurzelig</title>
-      <link>https://feinesse.github.io/tags/wurzelig/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/wurzelig/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ei</title>
-      <link>https://feinesse.github.io/tags/ei/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/ei/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fruchtig</title>
-      <link>https://feinesse.github.io/tags/fruchtig/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/fruchtig/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Gesund</title>
       <link>https://feinesse.github.io/tags/gesund/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://feinesse.github.io/tags/gesund/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gratin</title>
-      <link>https://feinesse.github.io/tags/gratin/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/gratin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nussig</title>
-      <link>https://feinesse.github.io/tags/nussig/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/tags/nussig/</guid>
       <description></description>
     </item>
     <item>

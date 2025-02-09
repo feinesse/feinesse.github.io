@@ -1,0 +1,29 @@
+---
+title: Spaghetti an Spinat-Pilzsauce
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [gefüllt, orientalisch]
+preparationTime: 10 min
+cookingTime: 20 min
+bakingTime: 
+serves: 2
+type: recipe
+---
+
+## Zutaten:
+
+- Spaghetti
+- 1 kleine Zwiebel 
+- 1 Knoblauchzehen
+- 1 Gutsch Weisswein
+- etwas Wasser
+- 1 Gutsch Rahm
+- gefrorener Rahmspinat
+
+
+## Vorgehen:
+
+1. klar
