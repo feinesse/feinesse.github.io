@@ -1,0 +1,38 @@
+---
+title: Gemüserahmsauce zu Vollkorn-Spätzli
+date: 2019-12-24
+description: 
+featured_image:
+author: [Simona]
+categories: [Hauptspeise]
+tags: [Schweiz, Vollkorn, hausgemacht, Gemüse, Herbst]
+preparationTime:  15 min
+cookingTime:  20 min
+bakingTime: 
+serves: 
+type: recipe
+---
+
+## Zutaten:
+
+- 2 Rüebli (farbige, bio; vom Bauer)
+- etwa gleich viel Kürbis (z.B. Butternuss)
+- 5 Champignons
+- 1 rote Zwiebel
+- Federkohl (violett, pro Specie Rare)
+- 1dl Weisswein
+- 2.5dl Halbrahm
+- Kardamom
+- Curry
+- Pfeffer
+- Salz
+
+
+## Vorgehen:
+
+1. Rüebli, Kürbis und Zwiebeln schneiden
+2. In etwas Öl andünsten für 5 Minuten, dann mit Weisswein ablöschen und Rahm beigeben. Nochmals 5 Minuten köcheln
+3. Federkohl beigeben und nochmals 5 Minuten köcheln
+4. Champignon beigeben und nochmals etwas köcheln
+5. Sauce mit viel Kardamom und etwas Curry abschmecken, Salz und Pfeffer dazugeben.
+6. Servieren
