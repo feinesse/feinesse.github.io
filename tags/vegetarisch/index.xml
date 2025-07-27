@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Italien on Eifach Guet</title>
-    <link>https://feinesse.github.io/tags/italien/</link>
-    <description>Recent content in Italien on Eifach Guet</description>
+    <title>Vegetarisch on Eifach Guet</title>
+    <link>https://feinesse.github.io/tags/vegetarisch/</link>
+    <description>Recent content in Vegetarisch on Eifach Guet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feinesse.github.io/tags/italien/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feinesse.github.io/tags/vegetarisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bolognese</title>
-      <link>https://feinesse.github.io/recipes/bolognese/</link>
+      <title>Griesssuppe</title>
+      <link>https://feinesse.github.io/recipes/griess-suppe/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/bolognese/</guid>
-      <description>&lt;h2 id=&#34;bolognese&#34;&gt;Bolognese&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Rindshackfleisch und Speck in Tranchen auf hoher Hitze mit Rapsöl anbraten, so dass es rundherum schön braun ist.&lt;/li&gt;&#xA;&lt;li&gt;Gemüse fein schneiden und andünsten. Pelati hinzugeben und mit Bouillon ablöschen.&lt;/li&gt;&#xA;&lt;li&gt;Fleisch und Kräuter beigeben und für einige Stunden leicht köcheln lassen.&lt;/li&gt;&#xA;&lt;li&gt;Sauce abschmecken&lt;/li&gt;&#xA;&lt;li&gt;Pasta (z.B. Spaghetti oder Hörnli) zubereiten&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;tipp&#34;&gt;Tipp&lt;/h3&gt;&#xA;&lt;p&gt;Kann gut (portionenweise) eingefroren werden und dann z.B. für Lasagne verwendet werden&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lasagne</title>
-      <link>https://feinesse.github.io/recipes/lasagne/</link>
-      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/lasagne/</guid>
-      <description>&lt;h2 id=&#34;lasagne&#34;&gt;Lasagne&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bolognese&#34;&gt;Bolognese&lt;/h3&gt;&#xA;&lt;p&gt;Siehe &lt;a href=&#34;https://feinesse.github.io/recipes/bolognese/&#34;&gt;Bolognese Rezept&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;bechamel&#34;&gt;Bechamel&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Butter in der Pfanne schmelzen&lt;/li&gt;&#xA;&lt;li&gt;Mehl beigeben und unter Rühren mit dem Schwingbesen dünsten ohne dass das Mehl Farbe annimmt&lt;/li&gt;&#xA;&lt;li&gt;Milch unter rühren zuerst langsam dazugiessen und aufkochen&lt;/li&gt;&#xA;&lt;li&gt;Rührend köcheln lassen, bis die Bechamel die gewünschte konsistenz erreicht hat&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;schichten&#34;&gt;Schichten&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ofen auf 200°C Ober- und Unterhitze vorheizen&lt;/li&gt;&#xA;&lt;li&gt;Lasagne wird 3-lagig. Bei jeder Lage zuerst mit den Lasagneblätter starten. Danach Bolo. Danach Bechamel. Danach Reibkäse.&lt;/li&gt;&#xA;&lt;li&gt;Für 20-40 Minuten in den Ofen (gemäss Verpackungsinfo der Lasagneblätter). Kurz vor dem Ende auf Grill umstellen um eine schöne Kruste zu erhalten&lt;/li&gt;&#xA;&lt;li&gt;Nach dem Herausnehmen, 10 Minuten ruhen lassen vor dem Servieren&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>https://feinesse.github.io/recipes/griess-suppe/</guid>
+      <description>&lt;h2 id=&#34;griesssuppe&#34;&gt;Griesssuppe&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Gemüse fein schneiden und mit Butter dünsten.&lt;/li&gt;&#xA;&lt;li&gt;Mit Bouillon ablöschen und für 30 Minuten köcheln lassen&lt;/li&gt;&#xA;&lt;li&gt;Griess reinrieseln&lt;/li&gt;&#xA;&lt;li&gt;Ei mit Gabel zerschlagen/mischen und unter rühren zugeben, damit es kleine Fäden gibt&lt;/li&gt;&#xA;&lt;li&gt;Nochmals kurz aufkochen und servieren&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Spinat Tomaten Pasta</title>
@@ -51,6 +44,20 @@
       <description>&lt;h2 id=&#34;broccoli-rahm-sauce&#34;&gt;Broccoli Rahm Sauce&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spaghetti in kochendes Salzwasser geben&lt;/li&gt;&#xA;&lt;li&gt;Olivenöl erhitzen und in kleine Stücke geschnittenen Broccoli hinzugeben&lt;/li&gt;&#xA;&lt;li&gt;Kleingewürfelte Knoblauchzehen hinzugeben und für 1-2 Minuten mitbraten&lt;/li&gt;&#xA;&lt;li&gt;Mit Bouillon ablöschen und für 5 Minuten zugedeckt köcheln lassen&lt;/li&gt;&#xA;&lt;li&gt;Erbsli und Rahm hinzufügen&lt;/li&gt;&#xA;&lt;li&gt;Für eine dickere Sauce, kann optional Maizena hinzugefügt werden&lt;/li&gt;&#xA;&lt;li&gt;Optional Rosa Pfeffer hinzufügen&lt;/li&gt;&#xA;&lt;li&gt;Mit Salz und Pfeffer abschmecken&lt;/li&gt;&#xA;&lt;li&gt;Parmesan unter die Sauce mischen und servieren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Daal</title>
+      <link>https://feinesse.github.io/recipes/daal/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/recipes/daal/</guid>
+      <description>&lt;h2 id=&#34;daal&#34;&gt;Daal&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linsen waschen und danach in gesalzenem, kochendem Wasser (hälfte Salz von Pastawasser) für 20 Minuten kochen&lt;/li&gt;&#xA;&lt;li&gt;Olivenöl erwärmen und danach fein geschnittene Zwiebeln für einige Minuten anbraten&lt;/li&gt;&#xA;&lt;li&gt;Ingwer (gewürfelt) und klein geschnittener Knoblauch hinzugeben und für 2-3 Minuten mitbraten&lt;/li&gt;&#xA;&lt;li&gt;Gewürze hinzugeben und für weitere 2-3 weiterbraten, bis es schön aromatisch riecht und bräunt&lt;/li&gt;&#xA;&lt;li&gt;Tomatenpüree und Pelati hinzugeben&lt;/li&gt;&#xA;&lt;li&gt;Bouillon und Kokosnussmilch hinzugeben und für 10 Minuten leicht köcheln lassen&lt;/li&gt;&#xA;&lt;li&gt;Linsen hinzugeben, zudecken und für 20-30 Minuten ziehen lassen&lt;/li&gt;&#xA;&lt;li&gt;Zitronensaft hinzufügen und auf die gewünschte Konsistenz einkochen&lt;/li&gt;&#xA;&lt;li&gt;Mit Salz abschmecken und vor dem Servieren mit Koreander dekorieren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Früchtewähe</title>
+      <link>https://feinesse.github.io/recipes/fruechtewaehe/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/recipes/fruechtewaehe/</guid>
+      <description>&lt;h2 id=&#34;früchte&#34;&gt;Früchte&lt;/h2&gt;&#xA;&lt;p&gt;Für eine runde Wähe benötigt es die folgenden Anzahl Früchte:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500g frische Äpfel (3-4)&lt;/li&gt;&#xA;&lt;li&gt;500g gefrorene Aprikosen&lt;/li&gt;&#xA;&lt;li&gt;500g gefrorene Pflaumen/Zwetschgen&lt;/li&gt;&#xA;&lt;li&gt;750g Kirschen&lt;/li&gt;&#xA;&lt;li&gt;500g Rhabarber&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Backofen mit Blech vorheizen auf 220 Grad Ober- und Unterhitze auf der untersten Rille&lt;/li&gt;&#xA;&lt;li&gt;Teig auswallen und mit Paniermehl und gemahlenen Haselnüssen Boden bestreuen&lt;/li&gt;&#xA;&lt;li&gt;Früche in Stücke schneiden und auf die Wähe geben&lt;/li&gt;&#xA;&lt;li&gt;Wähe in den Ofen für 25 Minuten&lt;/li&gt;&#xA;&lt;li&gt;Guss zubereiten: Eier, Rahm, Zucker, Vanillinzucker und Zimt mit Gabel vermischen und aufschlagen&lt;/li&gt;&#xA;&lt;li&gt;Guss auf die Wähe verteilen und für weitere 20 Minuten in den Ofen&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;tipp&#34;&gt;Tipp&lt;/h3&gt;&#xA;&lt;p&gt;Am Tag darauf 5 Minuten bei Induktionsherd auf Stufe 10 gibt wieder knusprigen Boden.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gnocchi Burro e Salvia</title>
       <link>https://feinesse.github.io/recipes/gnocchi-burro-e-salvia/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
@@ -58,32 +65,18 @@
       <description>&lt;p&gt;Salzwasser von gnocchi für Emulsion!&lt;/p&gt;&#xA;&lt;p&gt;Wirz: bouillon, salz, pfeffer, rahm&lt;/p&gt;&#xA;&lt;h2 id=&#34;gnocchi-burro-e-salvia&#34;&gt;Gnocchi Burro e Salvia&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gnocchi in kochendes Salzwasser geben und für 2-3 Minuten ziehen lassen&lt;/li&gt;&#xA;&lt;li&gt;Olivenöl und Butter in Pfanne erhitzen bis der Butter bräunt&lt;/li&gt;&#xA;&lt;li&gt;In Streifen geschnittene Salbeiblätter hinzugeben&lt;/li&gt;&#xA;&lt;li&gt;Mit wenig Salzwasser der Gnocchi ablöschen, so dass es eine schöne Emulsion gibt&lt;/li&gt;&#xA;&lt;li&gt;Gnocchi und geriebener Parmesan hinzugeben und gut vermischen. Danach servieren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Tiramisu</title>
-      <link>https://feinesse.github.io/recipes/tiramisu/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/tiramisu/</guid>
-      <description>&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;p&gt;Tiramisu muss am Vorabend zubereitet werden, damit der Kaffee schön in die Biskuits einziehen kann&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;5 Eiweiss steif schlagen und in den Kühlschrank tun&lt;/li&gt;&#xA;&lt;li&gt;5 Eigelb, Zucker und 2cl Marsala mit Mixer oder Küchenmaschine verrühren&lt;/li&gt;&#xA;&lt;li&gt;Mascarpone hinzugeben, bis die Creme dicker wird und zäher fliesst.&lt;/li&gt;&#xA;&lt;li&gt;Kaffee, 1 KL Zucker, 1 Gutsch Marsala in einem Suppenteler mischen.&lt;/li&gt;&#xA;&lt;li&gt;Löffelbisquit darin 2 mal drehen und in eine Schüssel füllen. Mit Creme bedecken. 2 Schichten.&lt;/li&gt;&#xA;&lt;li&gt;Vor dem Servieren mit Kakaopulver bestreuen&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <title>Zitronengras Limetten Curry</title>
+      <link>https://feinesse.github.io/recipes/zitronengras-limetten-curry/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/recipes/zitronengras-limetten-curry/</guid>
+      <description>&lt;h2 id=&#34;curry&#34;&gt;Curry&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Pouletgeschnetzlets mit Soya Sauce marinieren (einmassieren) und für min. 1h stehen lassen&lt;/li&gt;&#xA;&lt;li&gt;Blumenkohl in Röseli aufteilen und in Salzwasser für 5-7 Minuten kochen (je nachdem wie fest man ihn mag). Danach mit kaltem Wasser abschrecken&lt;/li&gt;&#xA;&lt;li&gt;Rapsöl leicht erhitzen und Chili, Kafirlimettenblätter, in kleinere Stücke zerteile Zitronengrasstängel und fein gehackter Knoblauch und Ingwer beigeben und leicht anbraten&lt;/li&gt;&#xA;&lt;li&gt;2.5dl Kokosnussmilch dazugeben und für 5 Minuten ziehen lassen (so dass es gerade nicht kocht)&lt;/li&gt;&#xA;&lt;li&gt;Danach alles in einen Foodprocessor geben, zerkleinern und durch ein Sieb wieder zurück in die Pfanne geben.&lt;/li&gt;&#xA;&lt;li&gt;Restliche Kokosnussmilch, Spinat, den Saft einer halben Limette, Fischsauce, Zucker und Kurkuma beigeben.&lt;/li&gt;&#xA;&lt;li&gt;Mit Salz oder Soya Sauce abschmecken.&lt;/li&gt;&#xA;&lt;li&gt;Poulet mit Rapsöl anbraten&lt;/li&gt;&#xA;&lt;li&gt;Falls notwendig mit Maizena oder Mehl die Sauce eindicken&lt;/li&gt;&#xA;&lt;li&gt;Blumenkohl, Kichererbsen, Poulet und Koriander hinzugeben&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;reis&#34;&gt;Reis&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reis waschen&lt;/li&gt;&#xA;&lt;li&gt;Salz dem Wasser beigeben und aufkochen&lt;/li&gt;&#xA;&lt;li&gt;Reis hinzugeben und zugedeckt auf tiefer Flamme gemäss Packungsbeilage kochen lassen (~20min)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
-      <title>Spaghetti Carbonara</title>
-      <link>https://feinesse.github.io/recipes/carbonara/</link>
+      <title>Spargelrisotto</title>
+      <link>https://feinesse.github.io/recipes/spargelrisotto/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/carbonara/</guid>
-      <description>&lt;h2 id=&#34;spaghetti-carbonara&#34;&gt;Spaghetti Carbonara&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Speck mit wenig Wasser anbraten (wird dadurch knuspriger)&lt;/li&gt;&#xA;&lt;li&gt;Spaghetti in kochendes Salzwasser geben&lt;/li&gt;&#xA;&lt;li&gt;2 Eier, 2 Eigelb, Parmesan und ein Gutsch Rahm mischen&lt;/li&gt;&#xA;&lt;li&gt;Sobald die Spaghetti al dente sind, frisch gemahlener Pfeffer der Eimasse hinzugeben und mit den Spaghetti in einer Schüssel mischen&lt;/li&gt;&#xA;&lt;li&gt;Pastawasser nach Bedarf hinzugeben, damit eine cremige Sauce entsteht&lt;/li&gt;&#xA;&lt;li&gt;Speck hinzugeben und servieren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Spaghetti all&#39;amatriciana</title>
-      <link>https://feinesse.github.io/recipes/all-amatriciana/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/all-amatriciana/</guid>
-      <description>&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Speck in Streifen/Würfel schneiden und leicht anbraten&lt;/li&gt;&#xA;&lt;li&gt;Währenddessen die Zwiebel schneiden und dazugeben. Für 10 Minuten auf kleiner Hitze dünsten&lt;/li&gt;&#xA;&lt;li&gt;Chili in kleine Streifen schneiden und mit den Tomaten hinzugeben und für 15 Minuten zugedeckt&#xA;köcheln lassen. Danach den Deckel wegnehmen und für weitere 10 Minuten einkochen&lt;/li&gt;&#xA;&lt;li&gt;Pasta zubereiten&lt;/li&gt;&#xA;&lt;li&gt;Optional Sauce mixen&lt;/li&gt;&#xA;&lt;li&gt;Pecorino Käse fein raffeln und mit dem Butter unter die Sauce ziehen&lt;/li&gt;&#xA;&lt;li&gt;Abschmecken&lt;/li&gt;&#xA;&lt;li&gt;Die Pasta mit der Sauce in der Pfanne mischen und dann direkt servieren&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Panna Cotta mit Waldbeeren</title>
-      <link>https://feinesse.github.io/recipes/panna-cotta/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/recipes/panna-cotta/</guid>
-      <description>&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen&lt;/h2&gt;&#xA;&lt;h3 id=&#34;panna-cotta&#34;&gt;Panna Cotta&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;2 Gelatine Blätter in kaltem Wasser einlegen&lt;/li&gt;&#xA;&lt;li&gt;1 Vanilleschote auskratzen und den Inhalt mit der Schote in eine Pfanne geben und unter&#xA;gelegentlichem rühren aufkochen. Danach 5 Minuten leicht köcheln lassen während man mit dem&#xA;Schwingbesen kontinuiertlich rührt.&lt;/li&gt;&#xA;&lt;li&gt;Gelatine darunterziehen und nach kurzem Rühren in 4 Schälchen einfüllen und für min. 4 Stunden&#xA;kühl stellen&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;waldbeerenkompott&#34;&gt;Waldbeerenkompott&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Waldbeeren zusammen mit dem Zucker, Zimt und ein bisschen Wasser aufkochen, einkochen und auf&#xA;~50 Grad abkühlen lassen.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Panna Cotta zusammen mit dem warmen Waldbeerenkompott servieren.&lt;/p&gt;</description>
+      <guid>https://feinesse.github.io/recipes/spargelrisotto/</guid>
+      <description>&lt;h2 id=&#34;spargelrisotto&#34;&gt;Spargelrisotto&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Zwiebeln und Knoblauch fein schneiden&lt;/li&gt;&#xA;&lt;li&gt;Olivenöl erhitzen&lt;/li&gt;&#xA;&lt;li&gt;Reis und Zwiebeln dazugeben und andünsten&lt;/li&gt;&#xA;&lt;li&gt;Mit Weisswein ablöschen&lt;/li&gt;&#xA;&lt;li&gt;Knoblauch dazugeben und mit Bouillon zudecken. Unter regelmässigem rühren für ungefähr 20 Minuten kochen (siehe Packungsbeilage des Reises). Bouillon von Zeit zu Zeit nachgeben, dass der Reis immer im Bouillon liegt. Nach 10 Minuten der in kleie Würfel geschnittene Spargel hinzugeben.&lt;/li&gt;&#xA;&lt;li&gt;2-3 Minuten bevor der Reis bereit ist, Reibkäse und Butter hinzugeben und zugedeckt ziehen lassen.&lt;/li&gt;&#xA;&lt;li&gt;Alles mischen, mit wenig Pfeffer abschmecken und servieren&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Pesto alla Genovese</title>
@@ -112,6 +105,13 @@
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://feinesse.github.io/recipes/erbsli-pesto/</guid>
       <description>&lt;h2 id=&#34;vorgehen&#34;&gt;Vorgehen:&lt;/h2&gt;&#xA;&lt;p&gt;Alles in einen Mörser geben und zerdrücken&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Älplermagrone</title>
+      <link>https://feinesse.github.io/recipes/aelplermagrone/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/recipes/aelplermagrone/</guid>
+      <description>&lt;h2 id=&#34;vorgehen-älplermagrone&#34;&gt;Vorgehen Älplermagrone&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Butter erhitzen, Zwiebeln und Zucker beigeben und während 20-30 Minuten karamellisieren.&lt;/li&gt;&#xA;&lt;li&gt;Kartoffeln schälen, würfeln und in kochendem Salzwasser für 15 Minuten garen.&lt;/li&gt;&#xA;&lt;li&gt;Die Älplermagrone zu gegebener Zeit hinzufügen.&lt;/li&gt;&#xA;&lt;li&gt;Käse raffeln.&lt;/li&gt;&#xA;&lt;li&gt;Knoblauch in kleine Stücke schneiden und den Zwiebeln für die letzen 2-3 Minuten hinzugeben.&lt;/li&gt;&#xA;&lt;li&gt;Ofen auf 100 Grad vorheizen.&lt;/li&gt;&#xA;&lt;li&gt;In 3 Lagen Älplermagrone/Kartoffeln, Käse, Zwiebeln&amp;amp;Knoblauch und Pfeffer&amp;amp;Muskat aufeinanderschichten und in den Backofen geben.&lt;/li&gt;&#xA;&lt;li&gt;Milchrahm aufkochen und optional ein bisschen Maizena hinzugeben.&lt;/li&gt;&#xA;&lt;li&gt;Milchrahm über die Älplermagronen geben, alles mischen und direkt servieren. Wenn du alles richtig gemacht hast, zieht der Käse schöne Fäden.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

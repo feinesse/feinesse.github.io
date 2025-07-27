@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://feinesse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dessert</title>
+      <link>https://feinesse.github.io/categories/dessert/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://feinesse.github.io/categories/dessert/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hauptspeise</title>
       <link>https://feinesse.github.io/categories/hauptspeise/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
@@ -20,13 +27,6 @@
       <link>https://feinesse.github.io/categories/vorspeise/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://feinesse.github.io/categories/vorspeise/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dessert</title>
-      <link>https://feinesse.github.io/categories/dessert/</link>
-      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://feinesse.github.io/categories/dessert/</guid>
       <description></description>
     </item>
     <item>
